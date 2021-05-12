@@ -11,6 +11,9 @@
 # production
 /build
 
+# delpyment
+/firebase.json
+
 # misc
 .DS_Store
 .env.local
